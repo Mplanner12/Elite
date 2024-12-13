@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Elite: International Digital Consultancy Agency
 
-## Getting Started
+Elite is an international digital consultancy agency offering a comprehensive suite of services across design, development, marketing, and content creation. We empower businesses to thrive in the digital landscape with innovative solutions tailored to their unique needs.
 
-First, run the development server:
+## Our Services
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+We offer a wide range of services categorized as follows:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Design:**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Logo Design
+- Business Card Design & Print
+- Menu Design
+- Poster Design
+- Book Cover Design
+- Fashion Design
+- Image Editing
+- Resume Design
+- UX Design
+- App Design
+- Icon Design
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**Development:**
 
-## Learn More
+- Business Website Development
+- E-commerce Development
+- Dropshipping Website Development
+- Chatbot Development
+- App Development
+- Cybersecurity Solutions
 
-To learn more about Next.js, take a look at the following resources:
+**Marketing:**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Video SEO
+- Search Engine Optimization (SEO)
+- Social Media Marketing
+- Paid Social Media Advertising
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**Video Production:**
 
-## Deploy on Vercel
+- Video Editing
+- Video Ads Creation
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Content Creation:**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Book Editing
+- Website Content Writing
+- Scriptwriting
+- Cover Letter Writing
+- CV Writing
+
+## Contact Us
+
+To learn more about how Elite can help your business achieve its digital goals, please contact us.
